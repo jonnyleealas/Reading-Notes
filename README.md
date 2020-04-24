@@ -2,7 +2,7 @@
 ## This journal contains notes of readings, and assignments of my journey in Code 201 at Code Fellows. 
 
 ### Jonathon Lee April 24, 2020.
-> "And this is where the fun begins". -Ahsoka Tano
+> And this is where the fun begins. -Ahsoka Tano
 
 
 
