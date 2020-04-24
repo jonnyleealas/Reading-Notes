@@ -1,4 +1,4 @@
-# learning-journal-201
+# Code 201 Reading Notes
 class 201
 
 
